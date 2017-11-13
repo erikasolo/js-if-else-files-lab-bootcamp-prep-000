@@ -5,7 +5,7 @@ if (name === "Susan") {
 }
 
 
-var name = "Susan"
+var name = "r"
 var height = "74"
 
 
